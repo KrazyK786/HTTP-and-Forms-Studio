@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    background-color: #4285F4;
+}
+
+.container {
+    text-align: center;
+}
+
+#searchForm {
+    /* display:inline-block; */
+    /* text-align: center; */
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    /* top: 50%; */
+}
+
+button {
+    border-radius: 8px;
+    background-color: #EA4335;
+}
+
+.searchBox {
+    padding: 5px;
+}
